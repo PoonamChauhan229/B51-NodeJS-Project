@@ -1,0 +1,23 @@
+task relationship
+
+mongodb atlas
+
+movie relationship +model
+
+
+DB=> local
+
+Deployments
+FE<=>BE
+
+Andrew01
+Drink
+654c65ad81a46836e44a9bc9
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjVhZDgxYTQ2ODM2ZTQ0YTliYzkiLCJpYXQiOjE2OTk1MDU1ODF9.r2fBhqwkXZm3MJeowkqNi7g3ULbIVBxOlg_WBM3uEz0
+
+Andrew02
+Eat
+654c65e281a46836e44a9bce
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRjNjVlMjgxYTQ2ODM2ZTQ0YTliY2UiLCJpYXQiOjE2OTk1MDU2MzR9.sGbdRVIXfETJKcU2chnoSwvtDKeoqZnpn8zeZQ-MhPc
