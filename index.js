@@ -7,6 +7,7 @@ const userRouter=require('./Route/userRouter')
 const taskRouter=require('./Route/taskRoute')
 const movieRouter=require('./Route/movieRoute')
 const express=require('express')
+const cors=require('cors')
 
 
 const app=express()
@@ -14,7 +15,7 @@ const PORT=process.env.PORT || 8000;
 
 app.use(express.json())
 // saving the to DB=> posting the data=> POST method
-
+app.use(cors())
 // Router
 app.use(userRouter)
 app.use(taskRouter)
